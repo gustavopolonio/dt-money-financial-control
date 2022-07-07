@@ -26,6 +26,7 @@ Feel free to use the Dt money as you wish, either to study or make improvementes
 <p align="center">
    <img src="https://github.com/gustavopolonio/dt-money-financial-control/blob/master/.github/newTransaction.png" width="680"/>
 </p>
+
 - Track your income and outcome history on the dashboard.
 - Your total balance is generated automatically.
 
