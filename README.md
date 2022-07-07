@@ -62,7 +62,7 @@ $ yarn start
 
 # :closed_book: License
 
-This project is under the MIT license. See the [license](https://github.com/gustavopolonio/dt-money-financial-control/blob/main/LICENSE) for more informations.
+This project is under the MIT license. See the [license](https://github.com/gustavopolonio/dt-money-financial-control/blob/master/LICENSE) for more informations.
 
 ---
 
